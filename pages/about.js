@@ -1,12 +1,12 @@
 import Link from "next/link";
 import Head from "next/head";
-export default function Index() {
+export default function About() {
   return (
     <div>
       <Head>
-        <title>Index</title>
+        <title>About</title>
       </Head>
-      <h3>Index</h3>
+      <h3>this is about page</h3>
       <ul>
         <li>
           <Link href="/">Home</Link>
