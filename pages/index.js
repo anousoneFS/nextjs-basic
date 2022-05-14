@@ -9,13 +9,16 @@ export default function Index() {
       <h3>Index</h3>
       <ul>
         <li>
-          <Link href="/">Home</Link>
+          <Link href="/">Index</Link>
         </li>
         <li>
           <Link href="/about">About</Link>
         </li>
         <li>
           <Link href="/contract_us">Contract Us</Link>
+        </li>
+        <li>
+          <Link href="/news">News</Link>
         </li>
       </ul>
     </div>
